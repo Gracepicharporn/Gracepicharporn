@@ -28,7 +28,7 @@ I'm Grace. I am currently a graduate student at the University of Bristol pursui
  **[2. Exploring Machine Learning](https://github.com/Gracepicharporn/Exploring-Machine_Learning)**  
  -> k-NN Regression, Decision Trees for Regression, KNeighborsClassifier, Logistic Regression, Cross-validation, GridSearchCV
  
- **[3. Autoscaling the WordFreq Application](https://github.com/Gracepicharporn/Autoscaling-the-WordFreq-Application)** 
+ **[3. Autoscaling the WordFreq Application](https://github.com/Gracepicharporn/Autoscaling-the-WordFreq-Application)**  
  -> Amazon Web Services (AWS), Amazon EC2, Amazon DynamoDB, Amazon S3, SQS Queues, Amazon Auto Scaling, Amazon CloudWatch
 
  **[4. Data Visualization](https://github.com/Gracepicharporn/Data-Visualization)**  
@@ -44,7 +44,7 @@ I'm Grace. I am currently a graduate student at the University of Bristol pursui
 **[1. SQL for Data Science]()**  
 -> In progress
 
-**[2. R and Statistic]()**
+**[2. R and Statistic]()**  
 -> In progress
 
 
