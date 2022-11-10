@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hi! Nice to see you.
+---
 
 Welcome to my page! 
 I'm Grace. I am currently a graduate student at the University of Bristol pursuing a Master’s degree in Data Science.
 
 ### :woman_technologist: My latest projects
+---
 
  **[1. Text Analytics](https://github.com/Gracepicharporn/Text-Analytics)**  
  -> Natural language processing (NLP) ; sentiment classification, named entity recognition, Word Embeddings, Neural Text Classifiers and Transformers, LSTM, BERT
@@ -41,6 +43,7 @@ I'm Grace. I am currently a graduate student at the University of Bristol pursui
  -> Analyze the Covid-19 Cases, Web Scraping, Statistical Test, Data Preparation & Cleaning, Pandas, Numpy, Matplotlib, Seaborn, Data visualization
 
 ### :books: Self-learning skills
+---
 **[1. SQL for Data Science]()**  
 -> In progress
 
