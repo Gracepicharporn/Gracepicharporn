@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hi! Nice to see you.
----
 
 Welcome to my page! 
 I'm Grace. I am currently a graduate student at the University of Bristol pursuing a Master’s degree in Data Science.
@@ -49,6 +48,10 @@ I'm Grace. I am currently a graduate student at the University of Bristol pursui
 
 **[2. R and Statistic]()**  
 -> In progress
+
+###  :hammer_and_wrench: Languages and Tools
+![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![image](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 
 
