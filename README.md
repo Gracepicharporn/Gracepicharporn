@@ -33,7 +33,7 @@ I'm Grace. I am currently a graduate student at the University of Bristol pursui
  -> Amazon Web Services (AWS), Amazon EC2, Amazon DynamoDB, Amazon S3, SQS Queues, Amazon Auto Scaling, Amazon CloudWatch
 
  **[4. Data Visualization](https://github.com/Gracepicharporn/Data-Visualization)**  
- -> Tableau, Tableau Prep, data projection, PCA, UMAP nomis dataset, bulk bookstore
+ -> Tableau, Tableau Prep, data projection, PCA, UMAP, nomis dataset, bulk bookstore
 
  **[5. Object oriented project for the Tron game](https://github.com/Gracepicharporn/object-oriented-Tron-game)**  
  -> Object oriented with 4 scenario games
