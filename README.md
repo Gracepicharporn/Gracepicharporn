@@ -22,8 +22,8 @@ I'm Grace. I am currently a graduate student at the University of Bristol pursui
 
 ### :woman_technologist: My latest projects
 
- **[1. Text Analytics](https://github.com/Gracepicharporn/Text-Analytics)**
--> Natural language processing (NLP) ; sentiment classification, named entity recognition, Word Embeddings, Neural Text Classifiers and Transformers
+ **[1. Text Analytics](https://github.com/Gracepicharporn/Text-Analytics)**  
+ -> Natural language processing (NLP) ; sentiment classification, named entity recognition, Word Embeddings, Neural Text Classifiers and Transformers
 
  **[2. Exploring Machine Learning](https://github.com/Gracepicharporn/Text-Analytics)**
  -> 
