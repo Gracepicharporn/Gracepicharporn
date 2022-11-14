@@ -43,7 +43,7 @@ I'm Grace. I am currently a graduate student at the University of Bristol pursui
 
 ### :books: Self-learning skills
 ---
-**[1. SQL for Data Science]()**  
+**[1. SQL for Data Science](https://github.com/Gracepicharporn/SQL-for-data-science)**  
 -> In progress
 
 **[2. R and Statistic]()**  
