@@ -44,7 +44,7 @@ I'm Grace. I am currently a graduate student at the University of Bristol pursui
 ### :books: Self-learning skills
 ---
 **[1. SQL for Data Science](https://github.com/Gracepicharporn/SQL-for-data-science)**  
--> In progress
+-> BigQuery, Select, From & Where, Group By, Having & Count, Order By, As & With, Joining Data, UNIONs, Analytic Functions, Nested and Repeated Data 
 
 **[2. R and Statistic]()**  
 -> In progress
